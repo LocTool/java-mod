@@ -85,7 +85,7 @@ public class Dos implements Runnable {
             }
         }
 
-        Thread.sleep(5000);
+        Thread.sleep(1000);
 
 
         System.out.println("Starting Attack");
